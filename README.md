@@ -41,6 +41,15 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircode21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
+  </a><br /><br />
+  <hr width="80%" />
+  <br />
+
+  <h3>🐍 Katkı Yılanım</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircode21/emircode21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircode21/emircode21/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/emircode21/emircode21/output/github-snake.svg" />
+  </picture>
 
 </div>
