@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/TR-T%C3%9CRK%C3%87E-4B5563?style=for-the-badge" alt="Türkçe" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/GB-ENGLISH-9333EA?style=for-the-badge" alt="English" />
+    <img src="https://img.shields.io/badge/ENG-ENGLISH-9333EA?style=for-the-badge" alt="English" />
   </a>
 
   <br /><br />
