@@ -22,4 +22,25 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,docker,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
   </a>
+
+  <br /><br />
+  <hr width="80%" />
+  <br />
+
+  <h3>📊 GitHub İstatistiklerim</h3>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=emircode21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emir's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ashutoshgandr/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=emircode21&theme=tokyonight&hide_border=true" alt="Emir's GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircode21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
+
 </div>
