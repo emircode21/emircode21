@@ -45,7 +45,7 @@
   <hr width="80%" />
   <br />
 
-  <h3>🐍 Katkı Yılanım</h3>
+  <h3>🐍 Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircode21/emircode21/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircode21/emircode21/output/github-snake.svg" />
