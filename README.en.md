@@ -44,17 +44,17 @@
   <h3>📊 GitHub Stats</h3>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=emircode21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Emir's GitHub Stats" />
+    <img src="https://github-readme-stats-liard-six-12.vercel.app/api?username=emircode21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Emir's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ashutoshgandr/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=emircode21&theme=tokyonight&hide_border=true" alt="Emir's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=emircode21&theme=tokyonight&hide_border=true&timezone=Europe/Istanbul" alt="Emir's GitHub Streak" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=emircode21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats-liard-six-12.vercel.app/api/top-langs?username=emircode21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
 
   <br /><br />
