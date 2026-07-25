@@ -44,7 +44,7 @@
   <h3>📊 GitHub İstatistiklerim</h3>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=emircode21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" alt="Emir's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=emircode21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Emir's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ashutoshgandr/github-readme-streak-stats">
@@ -54,7 +54,7 @@
   <br /><br />
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircode21&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Langs" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=emircode21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
 
   <br /><br />
