@@ -2,25 +2,37 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Her gün gece yarısı otomatik çalışır
-    - cron: "0 0 * * *"
-  workflow_dispatch: # İstediğimiz zaman manuel çalıştırmamızı sağlar
+    # Her 24 saatte bir otomatik çalışır
+    - cron: "0 */24 * * *"
+  
+  # Manuel olarak çalıştırma (Run workflow) butonu ekler
+  workflow_dispatch:
+  
+  # main branch'e push atıldığında çalışır
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: generate github-snake.svg and github-snake-dark.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: emircode21
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: push files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
